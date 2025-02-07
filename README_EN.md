@@ -9,7 +9,6 @@ This Android app helps you snatch red envelopes in WeChat. It detects red envelo
 Please goto the [**Release**](https://github.com/geeeeeeeeek/WeChatLuckyMoney/releases/) page to download the latest version. 
 
 ### Spotlights
-
 - **What to watch is at your choice**[[?]](https://github.com/geeeeeeeeek/WeChatLuckyMoney/issues/48)
 
   Three levels of watch options: `notification`/`chat list`/`chat page`. Whatever a coutious man or an ambitious one you wanna be, the choice is at yours.
